@@ -1,0 +1,9 @@
+C:\Users\Georgios.Tsorman\documents\visual studio 2017\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Georgios.Tsorman\documents\visual studio 2017\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Form1.resources
+C:\Users\Georgios.Tsorman\documents\visual studio 2017\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Properties.Resources.resources
+C:\Users\Georgios.Tsorman\documents\visual studio 2017\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.GenerateResource.Cache
+C:\Users\Georgios.Tsorman\documents\visual studio 2017\Projects\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe.config
+C:\Users\Georgios.Tsorman\documents\visual studio 2017\Projects\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe
+C:\Users\Georgios.Tsorman\documents\visual studio 2017\Projects\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.pdb
+C:\Users\Georgios.Tsorman\documents\visual studio 2017\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.exe
+C:\Users\Georgios.Tsorman\documents\visual studio 2017\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.pdb
